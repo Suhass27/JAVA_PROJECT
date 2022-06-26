@@ -35,7 +35,7 @@ for Course project purpose 😁😌.
 
 2) Classs selection
 
-                The teacher/teachers are left with a option to choose the repescting the class which they held
+                The teacher/teachers are left with a option to choose the repescting the class which they handle
 
 3) Class updation 
 
