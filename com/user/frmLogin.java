@@ -26,13 +26,17 @@ import java.sql.PreparedStatement;
 interface defaultinter
 {
     void profile();
+    default void interfaces()
+    {
+        System.out.println("This is a simple defualt interface");
+    }
 }
 
 class project implements defaultinter
 {
     public void profile()
     {
-        System.out.println("This is dummy default interface");
+        System.out.println("This is dummy  interface");
     }
 }
 class passobj{
